@@ -15,8 +15,6 @@ Hit me up on [Twitter](https://twitter.com/raphtlw) or [Instagram](https://insta
 If you want to do it the old fasioned way, I have an [email](mailto:raphpb1912@gmail.com) too.
 
 <br />
-<br />
-<br />
 
 [![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphtlw)](https://github.com/anuraghazra/github-readme-stats)
 
