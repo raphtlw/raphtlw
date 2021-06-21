@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/68mbMBg.gif" align="left" width="300" alt="animated cool face" />
+
 ### Hi there 👋
 
 I'm a self-taught web and native developer. I love machine learning and data science, UI/UX development, designing, architecting, building apps, linux, docker and much more.
@@ -11,6 +13,10 @@ Occasionally, I listen to music, curate playlists and do DIY projects. Sometimes
 Hit me up on [Twitter](https://twitter.com/raphtlw) or [Instagram](https://instagram.com/raphtlw).
 
 If you want to do it the old fasioned way, I have an [email](mailto:raphpb1912@gmail.com) too.
+
+<br />
+<br />
+<br />
 
 [![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphtlw)](https://github.com/anuraghazra/github-readme-stats)
 
