@@ -8,7 +8,7 @@ TL;DR: I love making cool shit.
 
 Most of my projects are open source, like [coronastats](https://github.com/raphtlw/coronastats), [symbit](https://github.com/raphtlw/symbit) and [qscan](https://github.com/raphtlw/qscan).
 
-Occasionally, I listen to music, curate playlists and do DIY projects. Sometimes, I take photos and make videos.
+Occasionally, I listen to music, curate playlists and do DIY projects. Sometimes, I take photos and make videos. I also write on my [personal blog](https://blog.raphtlw.rocks) when I feel like it.
 
 Hit me up on [Twitter](https://twitter.com/raphtlw) or [Instagram](https://instagram.com/raphtlw).
 
