@@ -13,9 +13,3 @@ Occasionally, I listen to music, curate playlists and do DIY projects. Sometimes
 Hit me up on [Twitter](https://twitter.com/raphtlw) or [Instagram](https://instagram.com/raphtlw).
 
 If you want to do it the old fasioned way, I have an [email](mailto:raphpb1912@gmail.com) too.
-
-<br />
-
-[![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=raphtlw)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raphtlw)](https://github.com/anuraghazra/github-readme-stats)
